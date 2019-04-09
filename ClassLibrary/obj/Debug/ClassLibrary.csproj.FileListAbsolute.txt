@@ -1,0 +1,6 @@
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\ClassLibrary\obj\Debug\ClassLibrary.pdb

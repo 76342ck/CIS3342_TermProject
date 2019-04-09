@@ -1,0 +1,5 @@
+C:\Users\gwiarae\source\repos\TermProject\TermProject\Utilities\bin\Debug\Utilities.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\Utilities\bin\Debug\Utilities.pdb
+C:\Users\gwiarae\source\repos\TermProject\TermProject\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\Utilities\obj\Debug\Utilities.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\Utilities\obj\Debug\Utilities.pdb

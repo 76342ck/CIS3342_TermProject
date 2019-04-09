@@ -1,0 +1,16 @@
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\TermProjectWS.deps.json
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\TermProjectWS.runtimeconfig.json
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\TermProjectWS.runtimeconfig.dev.json
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\TermProjectWS.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\TermProjectWS.pdb
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\ClassLibrary.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\Utilities.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\ClassLibrary.pdb
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\bin\Release\netcoreapp2.0\Utilities.pdb
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.csprojAssemblyReference.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.csproj.CoreCompileInputs.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.AssemblyInfoInputs.cache
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.AssemblyInfo.cs
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.csproj.CopyComplete
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.dll
+C:\Users\gwiarae\source\repos\TermProject\TermProject\TermProjectWS\obj\Release\netcoreapp2.0\TermProjectWS.pdb
